@@ -3,10 +3,12 @@ Boston Real Time Bus Tracking - Displays the route between the college campuses 
 
 This is an educational project assigned by MIT for my Professional Certificate in Coding: Full Stack Development with MERN.
 
-INSTALLATION & HOW TO RUN
+# INSTALLATION & HOW TO RUN
 
+# MAPBOX ACCESS TOKEN
 You will need to replace YOUR ACCESS TOKEN in the javascript file with your own. It's easy. Sign up for a MAPBOX account at mapbox.com. You can get an access token for free just by signing up. This will allow you to create a map.
 
+# CODE EDITOR
 You can use any code editor. I prefer Visual Studio Code. 
 
 There are two main ways to download files from a GitHub repository into Visual Studio Code:
